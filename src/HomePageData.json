@@ -2,40 +2,36 @@
   "heroData": {
     "bgImgLink": "/images/background/hero-bg.jpg",
     "imgLink": "/images/section/hero-img.jpg",
-    "title": "Edward <br /> Davis",
+    "title": "Jasir <br /> TC",
     "subTitle": "Hello, I’m",
     "designation": "Visual Designer"
   },
   "aboutData": {
     "imgLink": "/images/section/about.jpg",
     "cvPdf": "/images/Resume.pdf",
-    "title": "Hi There! I'm Edward Davis",
-    "subtitle": "Visual Designer",
-    "text": "I am a Visual Designer with a strong focus on digital branding. Visul design seeks to attract, inspire, create desires and otivate people to respond to messages, with a view to making a favorable impact.",
+    "title": "Hi There! I'm Jasir TC",
+    "subtitle": "Graphic Designer & Video Editor",
+    "text": "As an accomplished graphic designer with 7 years of experience, I am dedicated to translating ideas into captivating visual experiences. My passion for design is evident in every project I undertake, and my commitment to quality is unwavering. I thrive on pushing creative boundaries and delivering impactful designs that resonate with audiences.",
     "details": [
       {
         "title": "Birthday",
-        "info": "May 07, 1990"
+        "info": "[Your Birthday]"
       },
       {
         "title": "Phone",
-        "info": "+1 876-369-9009"
+        "info": "[Your Phone Number]"
       },
       {
         "title": "Email",
-        "info": "devis@example.com"
+        "info": "[Your Email]"
       },
       {
         "title": "From",
-        "info": "2661 Hich meadow lane bear creek"
+        "info": "Malappuram, Kerala"
       },
       {
         "title": "Language",
-        "info": "English, Germanic"
-      },
-      {
-        "title": "Freelance",
-        "info": "Available"
+        "info": "[Your Languages]"
       },
       {
         "title": "Freelance",
@@ -47,48 +43,48 @@
     "services": [
       {
         "imgLink": "/images/icon/icon1.png",
-        "title": "Sketches",
-        "text": "Lorem ipsum dolor sittem ametamn elit, per sed do eiusmoad teimpor sittem elit inuning utsed sittem.",
+        "title": "Logo Design",
+        "text": "Creating unique and memorable brand identities that capture the essence of your business and resonate with your target audience.",
         "effect": "zoom-out-up",
         "duration": "500",
         "delay": "200"
       },
       {
         "imgLink": "/images/icon/icon2.png",
-        "title": "UI/UX Design",
-        "text": "Lorem ipsum dolor sittem ametamn elit, per sed do eiusmoad teimpor sittem elit inuning utsed sittem.",
+        "title": "Video Editing",
+        "text": "Professional video editing services that bring your stories to life with compelling visuals and seamless transitions.",
         "effect": "zoom-out-up",
         "duration": "500",
         "delay": "300"
       },
       {
         "imgLink": "/images/icon/icon3.png",
-        "title": "Product Design",
-        "text": "Lorem ipsum dolor sittem ametamn elit, per sed do eiusmoad teimpor sittem elit inuning utsed sittem.",
+        "title": "Motion Graphics",
+        "text": "Dynamic motion graphics and animations that engage viewers and elevate your brand's visual communication.",
         "effect": "zoom-out-up",
         "duration": "500",
         "delay": "400"
       },
       {
         "imgLink": "/images/icon/icon4.png",
-        "title": "App Design",
-        "text": "Lorem ipsum dolor sittem ametamn elit, per sed do eiusmoad teimpor sittem elit inuning utsed sittem.",
+        "title": "Brand Identity",
+        "text": "Comprehensive brand identity design including logos, color schemes, typography, and visual guidelines.",
         "effect": "zoom-out-up",
         "duration": "500",
         "delay": "500"
       },
       {
         "imgLink": "/images/icon/icon5.png",
-        "title": "Motion Graphics",
-        "text": "Lorem ipsum dolor sittem ametamn elit, per sed do eiusmoad teimpor sittem elit inuning utsed sittem.",
+        "title": "Social Media Content",
+        "text": "Eye-catching social media graphics and video content designed to maximize engagement and brand visibility.",
         "effect": "zoom-out-up",
         "duration": "500",
         "delay": "600"
       },
       {
         "imgLink": "/images/icon/icon6.png",
-        "title": "Responsive Design",
-        "text": "Lorem ipsum dolor sittem ametamn elit, per sed do eiusmoad teimpor sittem elit inuning utsed sittem.",
+        "title": "Print Design",
+        "text": "High-quality print design services for brochures, flyers, posters, and other marketing materials.",
         "effect": "zoom-out-up",
         "duration": "500",
         "delay": "700"
@@ -100,43 +96,43 @@
     "text": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt.",
     "skills": [
       {
-        "title": "Photoshop",
+        "title": "Adobe Photoshop",
         "progress": "95%",
         "effect": "fade-up",
         "duration": "500",
         "delay": "200"
       },
       {
-        "title": "Motion Graphic",
-        "progress": "75%",
+        "title": "Adobe Premiere Pro",
+        "progress": "90%",
         "effect": "fade-up",
         "duration": "500",
         "delay": "300"
       },
       {
-        "title": "Adobe XD",
-        "progress": "90%",
+        "title": "Adobe After Effects",
+        "progress": "88%",
         "effect": "fade-up",
         "duration": "500",
         "delay": "400"
       },
       {
-        "title": "UX Design",
-        "progress": "85%",
+        "title": "Adobe Illustrator",
+        "progress": "92%",
         "effect": "fade-up",
         "duration": "500",
         "delay": "500"
       },
       {
-        "title": "HTML",
-        "progress": "80%",
+        "title": "Motion Graphics",
+        "progress": "85%",
         "effect": "fade-up",
         "duration": "500",
         "delay": "600"
       },
       {
-        "title": "Digital Marketing",
-        "progress": "90%",
+        "title": "Video Editing",
+        "progress": "93%",
         "effect": "fade-up",
         "duration": "500",
         "delay": "700"
@@ -492,43 +488,55 @@
     "experienceTitle": "Experience",
     "experience": [
       {
-        "title": "Senior UX/UI Designer",
-        "duration": "Jan 2020 - Present",
-        "subTitle": "Bergnaum, Hills and Howe",
-        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ligula nulla, tincidunt id faucibus sed, suscipit feugiat turpis."
+        "title": "Graphic Designer & Video Editor",
+        "duration": "2024 - 2025",
+        "subTitle": "Team Back Office International",
+        "text": "Creating compelling visual content and professional video editing for corporate clients at Hilite Business Park, Calicut."
       },
       {
-        "title": "Product Designer",
-        "duration": "Jan 2016 - December 2019",
-        "subTitle": "Langosh, Sipes and Raynor",
-        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ligula nulla, tincidunt id faucibus sed, suscipit feugiat turpis."
+        "title": "Graphic Designer & Video Editor",
+        "duration": "2022 - 2024",
+        "subTitle": "Safa Group of Companies",
+        "text": "Delivered comprehensive graphic design and video editing solutions for diverse business needs in Perinthalmanna."
       },
       {
-        "title": "UI/UX Designer",
-        "duration": "Jan 2014 - December 2015",
-        "subTitle": "Strosin, Maggio and Homenick",
-        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ligula nulla, tincidunt id faucibus sed, suscipit feugiat turpis."
+        "title": "Graphic Designer & Video Editor",
+        "duration": "2020 - 2021",
+        "subTitle": "E-Friend Educational Services Pvt. Ltd.",
+        "text": "Developed educational content through creative design and video production for e-learning platforms."
+      },
+      {
+        "title": "Graphic Designer",
+        "duration": "2019 - 2020",
+        "subTitle": "Rainhopes Digital FX Company",
+        "text": "Specialized in digital graphics and visual effects for various client projects in Perinthalmanna."
       }
     ],
     "educationTitle": "Education",
     "education": [
       {
-        "title": "Master of Computer Science",
-        "duration": "2015 - 2016",
-        "subTitle": "University of XYZ",
-        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ligula nulla, tincidunt id faucibus sed, suscipit feugiat turpis."
+        "title": "B.Sc Visual Communication",
+        "duration": "2020 - 2023",
+        "subTitle": "Bharathiar University, Coimbatore",
+        "text": "Comprehensive study of visual communication, media production, and design principles."
       },
       {
-        "title": "Bachelor of Computer Science",
-        "duration": "2010 - 2014",
-        "subTitle": "University of ABC",
-        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ligula nulla, tincidunt id faucibus sed, suscipit feugiat turpis."
+        "title": "AAIP - VFX",
+        "duration": "2019 - 2021",
+        "subTitle": "Arena Animation International Programming",
+        "text": "Advanced training in visual effects, animation, and digital media production at Perinthalmanna."
       },
       {
-        "title": "Diploma in Computer Science",
-        "duration": "2006 - 2010",
-        "subTitle": "XYZ Institution",
-        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ligula nulla, tincidunt id faucibus sed, suscipit feugiat turpis."
+        "title": "Diploma in Graphic Designing",
+        "duration": "2016 - 2017",
+        "subTitle": "Monarch Institute of Designing & Printing Technology",
+        "text": "Professional certification in graphic design fundamentals and printing technology in Malappuram."
+      },
+      {
+        "title": "Higher Secondary Education",
+        "duration": "2014 - 2016",
+        "subTitle": "MMET HSS Melmuri, Malappuram",
+        "text": "Completed higher secondary education with focus on creative and technical subjects."
       }
     ]
   },
@@ -547,7 +555,7 @@
     {
       "icon": "behance",
       "title": "Behance",
-      "link": "/"
+      "link": "https://www.behance.net/jasir"
     },
     {
       "icon": "twitter",
@@ -557,7 +565,7 @@
     {
       "icon": "linkedin",
       "title": "LinkedIn",
-      "link": "/"
+      "link": "https://www.linkedin.com/in/jasir-tc-53610b209/"
     }
   ]
 }
